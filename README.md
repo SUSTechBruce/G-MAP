@@ -78,6 +78,7 @@ Please check these datasets from https://huggingface.co/datasets
 
 ```python
 cd domain_classification;
+cd mem_roberta;
 # Choose the tasks in run_main.py
 python run_main.py --data_url /xxx --model_url --/xxx --save_dir --/xxx
 ```
@@ -86,6 +87,7 @@ python run_main.py --data_url /xxx --model_url --/xxx --save_dir --/xxx
 
 ```python
 cd domain_qa_ner;
+cd mem_roberta;
 # Choose the QA tasks in run_main.py
 python run_main.py --data_url /xxx --model_url --/xxx --save_dir --/xxx
 
@@ -95,6 +97,7 @@ python run_main.py --data_url /xxx --model_url --/xxx --save_dir --/xxx
 
 ```python
 cd domain_qa_ner;
+cd mem_roberta;
 # Choose the NER tasks in run_main.py
 python run_main.py --data_url /xxx --model_url --/xxx --save_dir --/xxx
 
