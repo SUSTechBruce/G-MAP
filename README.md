@@ -10,7 +10,7 @@ Source code for the EMNLP 2022 main conference paper entitled [G-MAP: General Me
 
 Our experiment is build on the framework from [huggingface transformers](https://github.com/huggingface/transformers).4.4.1
 
-The memory-augmented strategies of G-MAP is shown in the figure below. ![image info](./model.png)
+The memory-augmented strategies of G-MAP is shown in the figure below. ![image info](./G-MAP.png)
 
 
 ## Files:
