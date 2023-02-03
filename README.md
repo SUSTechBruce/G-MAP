@@ -40,6 +40,20 @@ The source codes are set to default of good hyperparameters, and can be used to 
 -----------------------------------------------------
 ## Setup:
 
+## Domain-specific model
+For the convenience, we suggest you directly use the open-source domain-specific model from  [huggingface](https://huggingface.co/allenai).
+
+### DAPT models
+
+Available `DAPT` models:
+
+```
+allenai/cs_roberta_base
+allenai/biomed_roberta_base
+allenai/reviews_roberta_base
+allenai/news_roberta_base
+```
+
 ## Datasets
 
 ### Domain-specific Classification tasks
