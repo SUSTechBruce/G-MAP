@@ -161,7 +161,6 @@ python run_main.py --data_url /xxx --model_url --/xxx --save_dir --/xxx
 ```python
 cd domain_qa_ner;
 cd mem_roberta;
-<<<<<<< HEAD
 # Choose the NER tasks in run_finetune_ner.py
 #######################################
 ......
