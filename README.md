@@ -176,7 +176,7 @@ dataset_name = '../data_ner/ncbi_disease/ncbi_disease.py'
 ......
 #######################################
 
-# Choose the domain-specific models in 
+# Choose the domain-specific models in run_finetune_ner.py
 #######################################
 ......
 chembio = '../domain_models/Chem_bio/pytorch_model.bin'
