@@ -161,6 +161,7 @@ python run_main.py --data_url /xxx --model_url --/xxx --save_dir --/xxx
 ```python
 cd domain_qa_ner;
 cd mem_roberta;
+<<<<<<< HEAD
 # Choose the NER tasks in run_finetune_ner.py
 #######################################
 ......
@@ -186,6 +187,10 @@ domain_model_path = chembio
 #######################################
 
 python run_finetune_ner.py
+=======
+# Choose the NER tasks in run_main.py
+python run_main.py --data_url /xxx --model_url --/xxx --save_dir --/xxx
+>>>>>>> 1d5ad8951612bca412b871b51d811d7b87ad6dba
 
 ```
 
