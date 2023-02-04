@@ -126,7 +126,7 @@ For details of the methods and results, please refer to our paper.
 @article{Wan2022GMAPGM,
   title={G-MAP: General Memory-Augmented Pre-trained Language Model for Domain Tasks},
   author={Zhongwei Wan and Yichun Yin and Wei Zhang and Jiaxin Shi and Lifeng Shang and Guangyong Chen and Xin Jiang and Qun Liu},
-  journal={ArXiv},
+  journal={EMNLP},
   year={2022},
   volume={abs/2212.03613}
 }
